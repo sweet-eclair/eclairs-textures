@@ -1,0 +1,43 @@
+{
+	"format_version": [
+		1,
+		1,
+		0
+	],
+	"frame": {
+		"blockshape": "invisible",
+		"textures": "itemframe_background",
+		"sound": "itemframe"
+	},
+	"grass_path": {
+		"sound": "grass",
+		"textures": "grass_path_top"
+	},
+	"mycelium": {
+		"sound": "grass",
+		"textures": "mycelium_top"
+	},
+	"podzol": {
+		"sound": "gravel",
+		"textures": "dirt_podzol_top"
+	},
+	"crimson_nylium": {
+		"sound": "nylium",
+		"textures": "crimson_nylium_top"
+	},
+	"warped_nylium": {
+		"sound": "nylium",
+		"textures": "warped_nylium_top"
+	},
+	"trapped_chest": {
+		"sound": "wood",
+		"textures": {
+			"down": "chest_inventory_top",
+			"east": "chest_inventory_side",
+			"north": "chest_inventory_side",
+			"south": "chest_inventory_front",
+			"up": "chest_inventory_top",
+			"west": "chest_inventory_side"
+		}
+	}
+}
