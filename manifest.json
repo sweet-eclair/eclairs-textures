@@ -1,0 +1,34 @@
+{
+	"format_version": 2,
+	"metadata": {
+		"authors": [
+			"Eclair"
+		]
+	},
+	"header": {
+		"name": "Eclairs Textures",
+		"description": "Resource pack with some stuff I like",
+		"min_engine_version": [
+			1,
+			17,
+			0
+		],
+		"uuid": "7321dcd8-d8dc-4831-b376-c5319ca00ad4",
+		"version": [
+			1,
+			0,
+			0
+		]
+	},
+	"modules": [
+		{
+			"type": "resources",
+			"uuid": "8a59e8a8-7b73-420f-93b7-108fa8b16c2f",
+			"version": [
+				1,
+				0,
+				0
+			]
+		}
+	]
+}
