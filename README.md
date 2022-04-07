@@ -1,4 +1,4 @@
-# eclairs-textures ![icon](pack_icon.png)
+# eclairs-textures ![icon](pack_icon.png | width=100)
 
 This is a minecraft bedrock resource pack I'm making. Some stuff may not be done yet
 
