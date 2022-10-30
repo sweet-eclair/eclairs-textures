@@ -5,3 +5,9 @@ item.salmon.name=Nigiri
 item.dried_kelp.name=Nori
 item.porkchop.name=Raw Pork
 item.cookie.name=Eclair
+tile.gold_block.name=Gold Bricks
+
+item.record_wait.desc=Pixel Terror - Chroma (ft. EMELINE)
+item.record_cat.desc=Ray Volpe - Screechy Song
+item.record_stal.desc=Ray Volpe & Sullivan King - The Dead March
+item.record_mall.desc=Ray Volpe - Laserbeam
